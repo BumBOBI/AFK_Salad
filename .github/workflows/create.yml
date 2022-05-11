@@ -1,4 +1,4 @@
-name: CI
+name: Legend
 
 on: workflow_dispatch
 
