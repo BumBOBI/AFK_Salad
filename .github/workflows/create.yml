@@ -1,4 +1,4 @@
-name: windowd10RDP
+name: Legend
 on: workflow_dispatch
 jobs:
   build:
